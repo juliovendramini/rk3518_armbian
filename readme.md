@@ -43,6 +43,7 @@ documentation when I started, and I'd like the next person to have a head start.
 ---
 
 ## Hardware
+<img width="960" height="1280" alt="WhatsApp Image 2026-06-09 at 17 10 01" src="https://github.com/user-attachments/assets/fc9a0389-4e68-4cc3-8002-a1dbfa9bca78" />
 
 | Component | Detail |
 |---|---|
